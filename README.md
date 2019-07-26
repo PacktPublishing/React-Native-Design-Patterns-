@@ -1,4 +1,4 @@
-# Cisco Voice Solutions for Small and Medium-Sized Enterprises SME - CUCME [Video]
+# React Native Design Patterns [Video]
 This is the code repository for [React Native Design Patterns [Video]](https://www.packtpub.com/mobile/react-native-design-patterns-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 Design Patterns are time-tested solutions that can be utilized as guidelines in your current work. Utilizing Design Patterns enhances code readability, improves the scalability of your applications, and defines a common language with other developers. 
